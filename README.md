@@ -1,5 +1,4 @@
-...
-
+## Каталогизация проектов
 
 ### По ценности опыта
 #### Фриланс проекты
@@ -7,7 +6,7 @@
   Описание: Модель прогнозирования покупок клиентов в течение 90 дней с использованием LightGBM, обработка больших данных и дисбаланса классов.  
   Технологии: Python, Scikit-learn, LightGBM, Pandas, feature-engineering.  
   Ссылка: [github.com/kagor4/Purchase-Prediction-for-Online-Store](https://github.com/kagor4/Purchase-Prediction-for-Online-Store).
-  
+
 #### Учебные проекты
 - **Churn Prediction for Beta Bank**  
   Описание: Построение модели для прогнозирования ухода клиентов с F1-мерой 0.61 на тестовой выборке.  
@@ -18,6 +17,11 @@
   Описание: Модель компьютерного зрения для предсказания возраста покупателей по фотографиям с MAE 7.12, основанная на ResNet50.  
   Технологии: Python, TensorFlow, Keras, ResNet50, Pandas, ImageDataGenerator.  
   Ссылка: [github.com/kagor4/Khleb-Sol_supermarket_project](https://github.com/kagor4/Khleb-Sol_supermarket_project).
+
+- **Churn Prediction for Telecom Company**  
+  Описание: Модель прогнозирования оттока клиентов телеком-компании с ROC AUC 0.903 на основе CatBoost, с анализом ключевых факторов ухода.  
+  Технологии: Python, Scikit-learn, CatBoost, Pandas, SQLite, Plotly.  
+  Ссылка: [github.com/kagor4/prokect_teltecom](https://github.com/kagor4/prokect_teltecom).
 
 ### По типу проекта
 #### Классический ML
@@ -31,10 +35,15 @@
   Технологии: Python, Scikit-learn, LightGBM, Pandas, big-data.  
   Ссылка: [github.com/kagor4/Purchase-Prediction-for-Online-Store](https://github.com/kagor4/Purchase-Prediction-for-Online-Store).
 
+- **Churn Prediction for Telecom Company**  
+  Описание: Прогноз оттока клиентов телеком-компании с использованием CatBoost (ROC AUC 0.903) и интерпретацией факторов ухода.  
+  Технологии: Python, Scikit-learn, CatBoost, Pandas, SQLite, Plotly.  
+  Ссылка: [github.com/kagor4/prokect_teltecom](https://github.com/kagor4/prokect_teltecom).
+
 #### Computer Vision
 - **Age Prediction for Khleb-Sol Supermarket**  
   Описание: Разработка модели на базе ResNet50 для определения возраста покупателей по фотографиям с MAE 7.12.  
   Технологии: Python, TensorFlow, Keras, ResNet50, Pandas, Seaborn.  
   Ссылка: [github.com/kagor4/Khleb-Sol_supermarket_project](https://github.com/kagor4/Khleb-Sol_supermarket_project).
 
-...
+---
