@@ -64,6 +64,11 @@
   Технологии: Python, pandas, matplotlib, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics)
 
+- **Real Estate Price Predictor**
+  Описание: Анализ и прогнозирование рыночной стоимости недвижимости в Санкт-Петербурге и Ленинградской области. Предобработка, выявление выбросов и факторов, влияющих на цену. Подготовка признаков для построения модели оценки.
+  Технологии: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook.
+  Ссылка: [github.com/kagor4/Real-Estate-Price-Predictor-](https://github.com/kagor4/Real-Estate-Price-Predictor-)
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -90,6 +95,11 @@
   Описание: Модель оценки риска ДТП для каршеринга с F1 0.674 на основе нейронной сети, с интеграцией PostgreSQL и демо в Streamlit.  
   Технологии: Python, PyTorch, CatBoost, Scikit-learn, PostgreSQL, Streamlit.  
   Ссылка: [github.com/kagor4/Accident-Risk-Prediction-System](https://github.com/kagor4/Accident-Risk-Prediction-System).
+
+- **Real Estate Price Predictor**  
+  Описание: Построение модели оценки стоимости квартир на основе данных Яндекс.Недвижимости. Включает EDA, обработку выбросов, генерацию признаков и обучение моделей (Random Forest, Gradient Boosting) для точного прогнозирования цен.  
+  Технологии: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/Real-Estate-Price-Predictor-](https://github.com/kagor4/Real-Estate-Price-Predictor-)
 
 #### Computer Vision
 - **Age Prediction for Khleb-Sol Supermarket**  
