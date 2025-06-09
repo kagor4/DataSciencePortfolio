@@ -1,5 +1,3 @@
----
-
 ## Каталогизация проектов
 
 | Project Name | Description | Technologies | Link | Experience Type | Project Type |
@@ -16,19 +14,7 @@
 | Taxi Demand Prediction | Прогнозирование спроса на такси в аэропорту с RMSE 42.57 на основе LinearRegression, анализ сезонности. | Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas | [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction) | Academic | Time Series |
 | GoFast Scooter Analytics | Анализ поведения пользователей сервиса аренды самокатов, оптимизация тарифов и подписки Ultra. | Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook | [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics) | Academic | Analytics |
 | Russian Film Industry Analytics | Анализ эффективности господдержки российского кинопроизводства, связь финансирования и кассовых сборов. | Python, Pandas, Matplotlib, Jupyter Notebook | [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics) | Academic | Analytics |
-| Real Estate Price Predictor | Прогнозирование стоимости недвижимости в Санкт-Петербурге, обработка выбросов и генерация признаков. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook | [github.com/kagor4/Real-Estate-Price-Predictor](https://github.com/kagor4/Real-Estate-Price-Predictor) | Academic | Classical ML |
-| OilWell Profit Predictor | Прогнозирование объёма нефти и прибыли от скважин, оценка рисков через bootstrap. | Python, Pandas, Scikit-learn, NumPy, bootstrap, Jupyter Notebook | [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor) | Academic | Classical ML |
-| California Housing Price Predictor | Прогнозирование стоимости жилья в Калифорнии с RMSE 68932.66 на основе LinearRegression и PySpark. | Python, PySpark, Scikit-learn, Pandas, feature-engineering | [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor) | Academic | Regression |
-| Toxic Comments Classification | Классификация токсичных комментариев с F1 0.7506 на основе CatBoost и TF-IDF, с лемматизацией и SMOTE. | Python, Scikit-learn, CatBoost, NLTK, Pandas, imbalanced-learn | [github.com/kagor4/toxic_comments_project](https://github.com/kagor4/toxic_comments_project) | Academic | NLP |
-
----
-
-## Навыки
-- **Языки и инструменты**: Python, SQL, SQLite, PostgreSQL, Jupyter Notebook, PyCharm, GitHub
-- **Библиотеки**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Keras-NLP, CatBoost, XGBoost, LightGBM, NLTK, Seaborn, Matplotlib, Plotly, ResNet50, imbalanced-learn, Phik, PyTorch, torchmetrics, SentenceTransformers, Optuna, tqdm, joblib, psycopg2, Streamlit, statsmodels, PySpark, pymystem3, SciPy
-- **Технологии**: ML, Deep Learning, Computer Vision, NLP, Big Data, PySpark, PostgreSQL, Multimodal Search, Regression, Classification, Time Series, Analytics
-
-## Обо мне
-Я окончил Яндекс Практикум по направлению Data Science, активно изучаю новые технологии через лекции и профессиональные видео. Мой опыт в digital-маркетинге помогает лучше понимать бизнес-цели. Увлекаюсь настолками, комиксами и работой на природе.
-
-⚡ **Факт**: Работа на свежем воздухе помогает мне находить нестандартные решения для сложных задач!
+| Real Estate Price Predictor | Прогнозирование стоимости недвижимости в Санкт-Петербурге, обработка выбросов и генерация признаков. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook | [github.com/kagor4/Real-Estate-Price-Predictor](https://github.com/kagor4/Real-Estate-Price-Predictor) | Academic | Classical ML |
+| OilWell Prediction | Прогнозирование объёма нефти и прибыли, оценка рисков через bootstrap. | Python, Pandas, Scikit-learn, NumPy, Jupyter Notebook | [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor) | Academic | Classical ML |
+| California Housing Prediction | Прогнозирование стоимости жилья в Калифорнии с RMSE 68932.66 на основе LinearRegression и PySpark. | Python, PySpark, Scikit-learn, Pandas | [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor) | Academic | Regression |
+| Toxic Comments Classification | Классификация токсичных текстов с F1 0.7506 на основе CatBoost и TF-IDF. | Python, Scikit-learn, CatBoost, NLTK, Pandas | [github.com/kagor4/toxic_comments_project](https://github.com/kagor4/toxic_comments_project) | Academic | NLP |
