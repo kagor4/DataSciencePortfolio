@@ -69,6 +69,11 @@
   Технологии: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/Real-Estate-Price-Predictor-](https://github.com/kagor4/Real-Estate-Price-Predictor-)
 
+- **OilWell Profit Predictor**  
+  Описание: Прогнозирование объёма нефти и прибыли от бурения скважин в трёх регионах. Модель линейной регрессии + оценка рисков через bootstrap. Выбор оптимального региона по ожидаемой прибыли и риску убытков.  
+  Технологии: Python, pandas, scikit-learn, numpy, bootstrap, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor)
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -100,6 +105,11 @@
   Описание: Построение модели оценки стоимости квартир на основе данных Яндекс.Недвижимости. Включает EDA, обработку выбросов, генерацию признаков и обучение моделей (Random Forest, Gradient Boosting) для точного прогнозирования цен.  
   Технологии: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/Real-Estate-Price-Predictor-](https://github.com/kagor4/Real-Estate-Price-Predictor-)
+
+- **OilWell Profit Predictor**  
+  Описание: Построение модели линейной регрессии для прогнозирования объёма нефти в скважинах. Bootstrap-анализ для оценки рисков и доверительных интервалов. Принятие бизнес-решений на основе модели.  
+  Технологии: Python, pandas, scikit-learn, numpy, bootstrap, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor)
 
 #### Computer Vision
 - **Age Prediction for Khleb-Sol Supermarket**  
