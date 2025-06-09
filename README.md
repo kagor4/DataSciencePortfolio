@@ -38,6 +38,11 @@
   Технологии: Python, PyTorch, Scikit-learn, Pandas, Seaborn, Phik.  
   Ссылка: [github.com/kagor4/Star-Temperature-Predictor](https://github.com/kagor4/Star-Temperature-Predictor).
 
+- **Used Car Price Predictor**  
+  Описание: Модель прогнозирования стоимости подержанных автомобилей с RMSE 1611.68 на основе LightGBM, с предобработкой аномалий.  
+  Технологии: Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering.  
+  Ссылка: [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -77,4 +82,9 @@
   Описание: Нейросетевая модель для предсказания температуры звёзд с RMSE 4263 на основе PyTorch, с анализом аastroфизических характеристик.  
   Технологии: Python, PyTorch, Scikit-learn, Pandas, Seaborn, Phik.  
   Ссылка: [github.com/kagor4/Star-Temperature-Predictor](https://github.com/kagor4/Star-Temperature-Predictor).
+
+- **Used Car Price Predictor**  
+  Описание: Модель прогнозирования стоимости подержанных автомобилей с RMSE 1611.68 на основе LightGBM, с предобработкой аномалий.  
+  Технологии: Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering.  
+  Ссылка: [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor).
 ---
