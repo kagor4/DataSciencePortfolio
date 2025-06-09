@@ -7,6 +7,11 @@
   Технологии: Python, Scikit-learn, LightGBM, Pandas, feature-engineering.  
   Ссылка: [github.com/kagor4/Purchase-Prediction-for-Online-Store](https://github.com/kagor4/Purchase-Prediction-for-Online-Store).
 
+- **Startup Survival Predictor**  
+  Описание: Модель прогнозирования выживаемости стартапов с F1 0.997 на основе DecisionTree, оптимизированного через Optuna, для Kaggle-соревнования.  
+  Технологии: Python, Scikit-learn, Optuna, Pandas, Phik, feature-engineering.  
+  Ссылка: [github.com/kagor4/Startup-Survival-Predictor](https://github.com/kagor4/Startup-Survival-Predictor).
+
 #### Учебные проекты
 - **Churn Prediction for Beta Bank**  
   Описание: Построение модели для прогнозирования ухода клиентов с F1-мерой 0.61 на тестовой выборке.  
@@ -44,6 +49,11 @@
   Описание: Прогноз оттока клиентов телеком-компании с использованием CatBoost (ROC AUC 0.903) и интерпретацией факторов ухода.  
   Технологии: Python, Scikit-learn, CatBoost, Pandas, SQLite, Plotly.  
   Ссылка: [github.com/kagor4/prokect_teltecom](https://github.com/kagor4/prokect_teltecom).
+
+- **Startup Survival Predictor**  
+  Описание: Прогноз выживаемости стартапов с F1 0.997 на основе DecisionTree, оптимизированного через Optuna, для Kaggle-соревнования.  
+  Технологии: Python, Scikit-learn, Optuna, Pandas, Phik, feature-engineering.  
+  Ссылка: [github.com/kagor4/Startup-Survival-Predictor](https://github.com/kagor4/Startup-Survival-Predictor).
 
 #### Computer Vision
 - **Age Prediction for Khleb-Sol Supermarket**  
