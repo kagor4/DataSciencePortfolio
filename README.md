@@ -43,6 +43,11 @@
   Технологии: Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering.  
   Ссылка: [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor).
 
+- **Accident Risk Prediction System**  
+  Описание: Модель оценки риска ДТП для каршеринга с F1 0.674 на основе нейронной сети, с интеграцией PostgreSQL и демо в Streamlit.  
+  Технологии: Python, PyTorch, CatBoost, Scikit-learn, PostgreSQL, Streamlit.  
+  Ссылка: [github.com/kagor4/Accident-Risk-Prediction-System](https://github.com/kagor4/Accident-Risk-Prediction-System).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -64,6 +69,11 @@
   Описание: Прогноз выживаемости стартапов с F1 0.997 на основе DecisionTree, оптимизированного через Optuna, для Kaggle-соревнования.  
   Технологии: Python, Scikit-learn, Optuna, Pandas, Phik, feature-engineering.  
   Ссылка: [github.com/kagor4/Startup-Survival-Predictor](https://github.com/kagor4/Startup-Survival-Predictor).
+
+- **Accident Risk Prediction System**  
+  Описание: Модель оценки риска ДТП для каршеринга с F1 0.674 на основе нейронной сети, с интеграцией PostgreSQL и демо в Streamlit.  
+  Технологии: Python, PyTorch, CatBoost, Scikit-learn, PostgreSQL, Streamlit.  
+  Ссылка: [github.com/kagor4/Accident-Risk-Prediction-System](https://github.com/kagor4/Accident-Risk-Prediction-System).
 
 #### Computer Vision
 - **Age Prediction for Khleb-Sol Supermarket**  
