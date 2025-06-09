@@ -33,6 +33,11 @@
   Технологии: Python, TensorFlow, Keras, SentenceTransformers, BERT, ResNet50, NLTK.  
   Ссылка: [github.com/kagor4/photohosting_project](https://github.com/kagor4/photohosting_project).
 
+- **Star Temperature Predictor**  
+  Описание: Нейросетевая модель для предсказания температуры звёзд с RMSE 4263 на основе PyTorch, с анализом астрофизических характеристик.  
+  Технологии: Python, PyTorch, Scikit-learn, Pandas, Seaborn, Phik.  
+  Ссылка: [github.com/kagor4/Star-Temperature-Predictor](https://github.com/kagor4/Star-Temperature-Predictor).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -66,4 +71,10 @@
   Описание: PoC мультимодального поиска изображений по тексту с использованием ResNet50 для изображений и BERT для текстовых описаний.  
   Технологии: Python, TensorFlow, Keras, SentenceTransformers, BERT, ResNet50, NLTK.  
   Ссылка: [github.com/kagor4/photohosting_project](https://github.com/kagor4/photohosting_project).
+
+#### Регрессия
+- **Star Temperature Predictor**  
+  Описание: Нейросетевая модель для предсказания температуры звёзд с RMSE 4263 на основе PyTorch, с анализом аastroфизических характеристик.  
+  Технологии: Python, PyTorch, Scikit-learn, Pandas, Seaborn, Phik.  
+  Ссылка: [github.com/kagor4/Star-Temperature-Predictor](https://github.com/kagor4/Star-Temperature-Predictor).
 ---
