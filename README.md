@@ -58,6 +58,12 @@
   Технологии: Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics).
 
+- **Russian Film Industry Analytics**  
+  Описание: Анализ эффективности государственной поддержки российского кинопроизводства и зрительского спроса.  
+Оценка связи между объёмом финансирования и кассовыми сборами, изучение жанров, возрастных ограничений и влияния рейтингов.  
+  Технологии: Python, pandas, matplotlib, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics)
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -119,4 +125,10 @@
   Описание: Исследовательский анализ данных о поездках и подписках сервиса GoFast. Включает статистические тесты, анализ выручки и гипотез для повышения конверсии.  
   Технологии: Python, Pandas, Matplotlib, NumPy, SciPy, Jupyter.  
   Ссылка: [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics).
+
+- **Russian Film Industry Analytics**  
+  Описание: Исследовательский анализ данных о господдержке фильмов в РФ: объёмы финансирования, кассовые сборы, возрастные ограничения, рейтинги.  
+Цель — выявить факторы успешности и дать рекомендации Минкульту.  
+  Технологии: Python, pandas, matplotlib, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics)
 ---
