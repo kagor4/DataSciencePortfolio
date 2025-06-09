@@ -23,6 +23,11 @@
   Технологии: Python, Scikit-learn, CatBoost, Pandas, SQLite, Plotly.  
   Ссылка: [github.com/kagor4/prokect_teltecom](https://github.com/kagor4/prokect_teltecom).
 
+- **Image Search for Photohosting**  
+  Описание: PoC мультимодального поиска изображений по текстовому описанию с использованием ResNet50 и BERT для фотохостинга.  
+  Технологии: Python, TensorFlow, Keras, SentenceTransformers, BERT, ResNet50, NLTK.  
+  Ссылка: [github.com/kagor4/photohosting_project](https://github.com/kagor4/photohosting_project).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -45,5 +50,10 @@
   Описание: Разработка модели на базе ResNet50 для определения возраста покупателей по фотографиям с MAE 7.12.  
   Технологии: Python, TensorFlow, Keras, ResNet50, Pandas, Seaborn.  
   Ссылка: [github.com/kagor4/Khleb-Sol_supermarket_project](https://github.com/kagor4/Khleb-Sol_supermarket_project).
-
+  
+#### Мультимодальные модели
+- **Image Search for Photohosting**  
+  Описание: PoC мультимодального поиска изображений по тексту с использованием ResNet50 для изображений и BERT для текстовых описаний.  
+  Технологии: Python, TensorFlow, Keras, SentenceTransformers, BERT, ResNet50, NLTK.  
+  Ссылка: [github.com/kagor4/photohosting_project](https://github.com/kagor4/photohosting_project).
 ---
