@@ -48,6 +48,11 @@
   Технологии: Python, PyTorch, CatBoost, Scikit-learn, PostgreSQL, Streamlit.  
   Ссылка: [github.com/kagor4/Accident-Risk-Prediction-System](https://github.com/kagor4/Accident-Risk-Prediction-System).
 
+- **Taxi Demand Prediction**  
+  Описание: Модель прогнозирования спроса на такси в аэропорту с RMSE 42.57 на основе LinearRegression, с анализом сезонности.  
+  Технологии: Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas.  
+  Ссылка: [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -97,4 +102,10 @@
   Описание: Модель прогнозирования стоимости подержанных автомобилей с RMSE 1611.68 на основе LightGBM, с предобработкой аномалий.  
   Технологии: Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering.  
   Ссылка: [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor).
+  
+#### Временные ряды
+- **Taxi Demand Prediction**  
+  Описание: Модель прогнозирования спроса на такси в аэропорту с RMSE 42.57 на основе LinearRegression, с анализом сезонности.  
+  Технологии: Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas.  
+  Ссылка: [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction).
 ---
