@@ -53,6 +53,11 @@
   Технологии: Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas.  
   Ссылка: [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction).
 
+- **GoFast Scooter Analytics**  
+  Описание: Анализ поведения пользователей сервиса аренды самокатов GoFast для оптимизации тарифов, изучения подписки Ultra, географии и возрастной структуры.  
+  Технологии: Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook.  
+  Ссылка: [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -108,4 +113,10 @@
   Описание: Модель прогнозирования спроса на такси в аэропорту с RMSE 42.57 на основе LinearRegression, с анализом сезонности.  
   Технологии: Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas.  
   Ссылка: [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction).
+
+#### Аналитика
+- **GoFast Scooter Analytics**  
+  Описание: Исследовательский анализ данных о поездках и подписках сервиса GoFast. Включает статистические тесты, анализ выручки и гипотез для повышения конверсии.  
+  Технологии: Python, Pandas, Matplotlib, NumPy, SciPy, Jupyter.  
+  Ссылка: [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics).
 ---
