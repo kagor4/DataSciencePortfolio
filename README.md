@@ -74,6 +74,11 @@
   Технологии: Python, pandas, scikit-learn, numpy, bootstrap, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor)
 
+- **California Housing Price Predictor**  
+  Описание: Модель прогнозирования стоимости жилья в Калифорнии с RMSE 68932.66 на основе LinearRegression и PySpark.  
+  Технологии: Python, PySpark, Scikit-learn, Pandas, feature-engineering.  
+  Ссылка: [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -133,6 +138,11 @@
   Описание: Модель прогнозирования стоимости подержанных автомобилей с RMSE 1611.68 на основе LightGBM, с предобработкой аномалий.  
   Технологии: Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering.  
   Ссылка: [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor).
+
+- **California Housing Price Predictor**  
+  Описание: Модель прогнозирования стоимости жилья в Калифорнии с RMSE 68932.66 на основе LinearRegression и PySpark.  
+  Технологии: Python, PySpark, Scikit-learn, Pandas, feature-engineering.  
+  Ссылка: [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor).
   
 #### Временные ряды
 - **Taxi Demand Prediction**  
