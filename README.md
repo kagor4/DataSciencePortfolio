@@ -79,6 +79,11 @@
   Технологии: Python, PySpark, Scikit-learn, Pandas, feature-engineering.  
   Ссылка: [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor).
 
+- **Toxic Comments Classification**  
+  Описание: Модель классификации токсичных комментариев с F1 0.7506 на основе CatBoost и TF-IDF, с лемматизацией и SMOTE.  
+  Технологии: Python, Scikit-learn, CatBoost, NLTK, Pandas, imbalanced-learn.  
+  Ссылка: [github.com/kagor4/toxic_comments_project](https://github.com/kagor4/toxic_comments_project).
+
 ### По типу проекта
 #### Классический ML
 - **Churn Prediction for Beta Bank**  
@@ -161,4 +166,10 @@
 Цель — выявить факторы успешности и дать рекомендации Минкульту.  
   Технологии: Python, pandas, matplotlib, Jupyter Notebook.  
   Ссылка: [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics)
+
+#### NLP
+- **Toxic Comments Classification**  
+  Описание: Модель классификации токсичных комментариев с F1 0.7506 на основе CatBoost и TF-IDF, с лемматизацией и SMOTE.  
+  Технологии: Python, Scikit-learn, CatBoost, NLTK, Pandas, imbalanced-learn.  
+  Ссылка: [github.com/kagor4/toxic_comments_project](https://github.com/kagor4/toxic_comments_project).
 ---
