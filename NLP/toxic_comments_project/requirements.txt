@@ -1,9 +1,0 @@
-pandas>=1.5
-numpy>=1.23
-matplotlib>=3.5
-seaborn>=0.11
-scikit-learn>=1.0
-imbalanced-learn>=0.10
-catboost>=1.2
-nltk>=3.6
-pymystem3>=0.2
