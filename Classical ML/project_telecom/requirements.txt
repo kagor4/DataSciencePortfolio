@@ -1,0 +1,12 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.11
+plotly>=5.3
+tqdm>=4.60
+scikit-learn>=1.2
+imbalanced-learn>=0.10
+catboost>=1.2
+phik>=0.12
+torch>=1.12
+torchmetrics>=0.11
