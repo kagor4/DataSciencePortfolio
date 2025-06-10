@@ -1,8 +1,0 @@
-pandas>=1.5
-numpy>=1.23
-matplotlib>=3.5
-seaborn>=0.11
-scikit-learn>=1.0
-statsmodels>=0.13
-catboost>=1.2
-lightgbm>=3.3
