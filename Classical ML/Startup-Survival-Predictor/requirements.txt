@@ -1,8 +1,0 @@
-pandas>=1.5
-numpy>=1.23
-matplotlib>=3.5
-seaborn>=0.11
-scikit-learn>=1.0
-optuna>=3.0
-phik>=0.12
-category-encoders>=2.6
