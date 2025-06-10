@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.11
+scikit-learn>=1.0
+catboost>=1.2
+torch>=2.0
+torchmetrics>=0.11
+psycopg2>=2.9
+phik>=0.12
+streamlit>=1.22
