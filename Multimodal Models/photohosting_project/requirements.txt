@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.11
+tqdm>=4.60
+scikit-learn>=1.2
+keras>=2.11
+tensorflow>=2.11
+keras-nlp>=0.5
+nltk>=3.8
+Pillow>=9.0
+sentence-transformers>=2.2
+torch>=1.12
