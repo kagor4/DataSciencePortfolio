@@ -1,21 +1,33 @@
-## Каталогизация проектов
+# Каталогизация проектов по типу
 
-| Project Name | Description | Technologies | Link | Experience Type | Project Type |
-|--------------|-------------|--------------|------|-----------------|--------------|
-| Purchase Prediction for Online Store | Прогнозирование покупок клиентов за 90 дней с LightGBM, обработка больших данных и дисбаланса классов. | Python, Scikit-learn, LightGBM, Pandas, feature-engineering | [github.com/kagor4/Purchase-Prediction-for-Online-Store](https://github.com/kagor4/Purchase-Prediction-for-Online-Store) | Freelance | Classical ML |
-| Startup Survival Predictor | Прогнозирование выживаемости стартапов с F1 0.997 на основе DecisionTree, оптимизированного через Optuna, для Kaggle. | Python, Scikit-learn, Optuna, Pandas, Phik, feature-engineering | [github.com/kagor4/Startup-Survival-Predictor](https://github.com/kagor4/Startup-Survival-Predictor) | Freelance | Classical ML |
-| Churn Prediction for Beta Bank | Прогнозирование ухода клиентов с F1 0.61 на тестовой выборке, решение проблемы дисбаланса классов. | Python, Scikit-learn, RandomForestClassifier, upsampling | [github.com/kagor4/Churn-Prediction-for-Beta-Bank](https://github.com/kagor4/Churn-Prediction-for-Beta-Bank) | Academic | Classical ML |
-| Age Prediction for Khleb-Sol Supermarket | Модель компьютерного зрения для предсказания возраста покупателей с MAE 7.12 на основе ResNet50. | Python, TensorFlow, Keras, ResNet50, Pandas, ImageDataGenerator | [github.com/kagor4/Khleb-Sol_supermarket_project](https://github.com/kagor4/Khleb-Sol_supermarket_project) | Academic | Computer Vision |
-| Churn Prediction for Telecom Company | Прогнозирование оттока клиентов телеком-компании с ROC AUC 0.903 на основе CatBoost, анализ факторов ухода. | Python, Scikit-learn, CatBoost, Pandas, SQLite, Plotly | [github.com/kagor4/project_telecom](https://github.com/kagor4/project_telecom) | Academic | Classical ML |
-| Image Search for Photohosting | PoC мультимодального поиска изображений по тексту с использованием ResNet50 и BERT. | Python, TensorFlow, Keras, SentenceTransformers, BERT, ResNet50, NLTK | [github.com/kagor4/photohosting_project](https://github.com/kagor4/photohosting_project) | Academic | Multimodal Models |
-| Star Temperature Predictor | Нейросетевая модель для предсказания температуры звёзд с RMSE 4263 на основе PyTorch, анализ астрофизических данных. | Python, PyTorch, Scikit-learn, Pandas, Seaborn, Phik | [github.com/kagor4/Star-Temperature-Predictor](https://github.com/kagor4/Star-Temperature-Predictor) | Academic | Classical ML |
-| Used Car Price Predictor | Прогнозирование стоимости подержанных автомобилей с RMSE 1611.68 на основе LightGBM, предобработка аномалий. | Python, Scikit-learn, LightGBM, Pandas, Seaborn, feature-engineering | [github.com/kagor4/Used-Car-Price-Predictor](https://github.com/kagor4/Used-Car-Price-Predictor) | Academic | Classical ML |
-| Accident Risk Prediction System | Оценка риска ДТП для каршеринга с F1 0.674 на основе нейронной сети, интеграция PostgreSQL и демо в Streamlit. | Python, PyTorch, CatBoost, Scikit-learn, PostgreSQL, Streamlit | [github.com/kagor4/Accident-Risk-Prediction-System](https://github.com/kagor4/Accident-Risk-Prediction-System) | Academic | Classical ML |
-| Taxi Demand Prediction | Прогнозирование спроса на такси в аэропорту с RMSE 42.57 на основе LinearRegression, анализ сезонности. | Python, Scikit-learn, LinearRegression, CatBoost, LightGBM, Pandas | [github.com/kagor4/Taxi-Demand-Prediction](https://github.com/kagor4/Taxi-Demand-Prediction) | Academic | Time Series |
-| GoFast Scooter Analytics | Анализ поведения пользователей сервиса аренды самокатов, оптимизация тарифов и подписки Ultra. | Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook | [github.com/kagor4/GoFast-Scooter-Analytics](https://github.com/kagor4/GoFast-Scooter-Analytics) | Academic | Analytics |
-| Russian Film Industry Analytics | Анализ эффективности господдержки российского кинопроизводства, связь финансирования и кассовых сборов. | Python, Pandas, Matplotlib, Jupyter Notebook | [github.com/kagor4/Russian-Film-Industry-Analytics](https://github.com/kagor4/Russian-Film-Industry-Analytics) | Academic | Analytics |
-| Real Estate Price Predictor | Прогнозирование стоимости недвижимости в Санкт-Петербурге, обработка выбросов и генерация признаков. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook | [github.com/kagor4/Real-Estate-Price-Predictor](https://github.com/kagor4/Real-Estate-Price-Predictor) | Academic | Classical ML |
-| OilWell Prediction | Прогнозирование объёма нефти и прибыли, оценка рисков через bootstrap. | Python, Pandas, Scikit-learn, NumPy, Jupyter Notebook | [github.com/kagor4/OilWell-Profit-Predictor](https://github.com/kagor4/OilWell-Profit-Predictor) | Academic | Classical ML |
-| California Housing Prediction | Прогнозирование стоимости жилья в Калифорнии с RMSE 68932.66 на основе LinearRegression и PySpark. | Python, PySpark, Scikit-learn, Pandas | [github.com/kagor4/California-Housing-Price-Predictor](https://github.com/kagor4/California-Housing-Price-Predictor) | Academic | Classical ML |
-| Toxic Comments Classification | Классификация токсичных текстов с F1 0.7506 на основе CatBoost и TF-IDF. | Python, Scikit-learn, CatBoost, NLTK, Pandas | [github.com/kagor4/toxic_comments_project](https://github.com/kagor4/toxic_comments_project) | Academic | NLP |
-| Bank Churn Prediction | Прогнозирование ухода клиентов банка с F1 0.61 на основе RandomForest, методы борьбы с дисбалансом. | Python, Scikit-learn, RandomForestClassifier, Pandas, Matplotlib, tqdm | [github.com/kagor4/bank_churn_project](https://github.com/kagor4/bank_churn_project) | Academic | Classical ML |
+Добро пожаловать в раздел **Project Types**! Здесь проекты моего портфолио Data Science организованы по типу задачи, чтобы вы могли легко найти примеры работ в нужной области. Каждый тип проекта (Classical ML, Computer Vision, Multimodal Models, Regression, Time Series, Analytics, NLP) находится в отдельной папке с подробным описанием и кодом.
+
+🔍 **Почему это удобно?**
+- Быстрый поиск проектов по интересующему типу задачи.
+- Чёткая структура с README для каждого проекта.
+- Доступ к коду, данным и зависимостям в одном месте.
+
+## Типы проектов
+
+| Тип проекта | Описание | Ссылка |
+|-------------|----------|--------|
+| **Classical ML** | Классические алгоритмы машинного обучения для задач классификации и регрессии (LightGBM, CatBoost, RandomForest). | [classical-ml/](classical-ml/) |
+| **Computer Vision** | Модели для обработки изображений с использованием глубокого обучения (ResNet50). | [computer-vision/](computer-vision/) |
+| **Multimodal Models** | Мультимодальные модели, комбинирующие текст и изображения (ResNet50, BERT). | [multimodal-models/](multimodal-models/) |
+| **Regression** | Модели для предсказания непрерывных величин (PyTorch, LightGBM, LinearRegression). | [regression/](regression/) |
+| **Time Series** | Анализ и прогнозирование временных рядов (LinearRegression, CatBoost). | [time-series/](time-series/) |
+| **Analytics** | Исследовательский анализ данных для бизнес-решений (Pandas, SciPy). | [analytics/](analytics/) |
+| **NLP** | Обработка естественного языка для задач классификации текста (CatBoost, TF-IDF). | [nlp/](nlp/) |
+
+## Как использовать
+1. Перейдите в папку с нужным типом проекта (например, `classical-ml/`).
+2. В каждой папке вы найдёте проекты с:
+   - `README.md` — описание цели, технологий и результатов.
+   - `code/` — исходный код (.py или .ipynb).
+   - `data/` — датасеты или инструкции по их загрузке.
+   - `requirements.txt` — зависимости для запуска.
+3. Для запуска проекта установите зависимости (`pip install -r requirements.txt`) и следуйте инструкциям в `README.md`.
+
+📫 **Связаться со мной**:
+- Telegram: [t.me/egor_kagor](https://t.me/egor_kagor)
+- Email: [egor.pytjev@gmail.com](mailto:egor.pytjev@gmail.com)
